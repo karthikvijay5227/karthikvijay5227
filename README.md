@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikvijay5227&show_icons=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikvijay5227&show_icons=true&theme=tokyonight)
-
+<!--
 - 📫 How to reach me:
 
 <a href="https://www.instagram.com/karthik82228/">
@@ -46,4 +46,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-**ashwin417/ashwin417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashwin417/ashwin417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
