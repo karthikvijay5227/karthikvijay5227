@@ -24,17 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.instagram.com/karthik82228/">
 
-  <img
-
-    alt="Instagram"
-
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-
-  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
 
 </a>
 
-<!-- <<a href="https://www.linkedin.com/in/karthikvijay5227/">
+<<a href="https://www.linkedin.com/in/karthikvijay5227/">
 
   <img
 
