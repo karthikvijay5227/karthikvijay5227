@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BTech CSE at College of Engineering Chengannur
 - 🌱 I’m currently learning Computer Science Engineering At CEC.
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=500px alt="logo.gif"/>
 
@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/karthik82228/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
 </a>
-<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" widht=1000px height=95px>
+<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <!---
 karthikvijay5227/karthikvijay5227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
