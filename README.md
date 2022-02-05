@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning Computer Science Engineering At CEC.
 
---<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=450px alt="logo.gif"/>
+--<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=500px alt="logo.gif"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikvijay5227&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=karthikvijay5227&show_icons=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikvijay5227&show_icons=true&theme=tokyonight)
 
