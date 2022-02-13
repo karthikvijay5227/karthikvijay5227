@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Computer Science Engineering At CEC.
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=65px>
 
+<a href="https://app.daily.dev/kv52274"><img src="https://api.daily.dev/devcards/06e82c7c06954b32b7630b092a6096c4.png?r=n62" width="400" alt="Karthik Vijay's Dev Card"/></a>
+
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=500px alt="logo.gif"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=karthikvijay5227&show_icons=true&theme=tokyonight)
