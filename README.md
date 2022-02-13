@@ -6,7 +6,7 @@
 
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=500px alt="logo.gif"/>
 
-<a href="https://app.daily.dev/kv52274"><img src="https://api.daily.dev/devcards/06e82c7c06954b32b7630b092a6096c4.png?r=n62" width="280px" alt="Karthik Vijay's Dev Card"/></a>
+<a href="https://app.daily.dev/kv52274"><img src="https://api.daily.dev/devcards/06e82c7c06954b32b7630b092a6096c4.png?r=n62" width="300px" alt="Karthik Vijay's Dev Card"/></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=karthikvijay5227&show_icons=true&theme=tokyonight)
 
