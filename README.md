@@ -17,7 +17,8 @@
 ![](https://komarev.com/ghpvc/?username=karthikvijay5227&color=blueviolet)
 
 
-## Languages and Skills
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
+                width="40" /> Languages and Tools</h2>
 
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,html,css,js,react,express,nodejs,mongodb,materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" /> -->
