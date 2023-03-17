@@ -20,7 +20,13 @@
 * Languages and Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,html,css,js,react,express,nodejs,mongodb,materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" />
+<!--     <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,html,css,js,react,express,nodejs,mongodb,materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" /> -->
+  
+   <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py" />
+  
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb" />
+  
+   <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" />
   </a>
 
 - 📫 How to reach me:
