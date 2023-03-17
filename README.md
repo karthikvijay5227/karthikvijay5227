@@ -17,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=karthikvijay5227&color=blueviolet)
 
 
-* Languages and Skills
+## Languages and Skills
 
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,html,css,js,react,express,nodejs,mongodb,materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" /> -->
