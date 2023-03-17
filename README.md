@@ -20,7 +20,7 @@
 * Languages and Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,html,css,js,react,express,nodejs,mongodb,materialui,bootstrap,tailwind,androistudio,flutter,vscode,eclipse,idea" />
   </a>
 
 - 📫 How to reach me:
