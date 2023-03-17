@@ -78,7 +78,7 @@
 </p>
 
 <div align="left">
-        <h2><img width="90" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats</h2>
+        <h2><img width="40" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats</h2>
  </div>
  <br />
  <div>
