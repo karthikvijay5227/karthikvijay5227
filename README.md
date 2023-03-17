@@ -16,6 +16,15 @@
 
 ![](https://komarev.com/ghpvc/?username=karthikvijay5227&color=blueviolet)
 
+
+* Languages and Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/karthikvijay5227/">
@@ -25,6 +34,30 @@
 <a href="https://www.instagram.com/karthik82228/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
 </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=10000 height=65px> -->
 
 <!---
