@@ -55,7 +55,7 @@
     </div>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
-                width="40" /> Languages and Tools</h2>
+                width="45" /> Languages and Tools</h2>
 
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,idea" />
@@ -78,7 +78,7 @@
 </p>
 
 <div align="left">
-        <h2><img width="40" height="40" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats</h2>
+        <h2><img width="45" height="45" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats</h2>
  </div>
  <br />
  <div>
