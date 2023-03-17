@@ -27,7 +27,7 @@
    </br>
    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb" />
    </br>
-   <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,idea" />
+   <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse" />
   </a>
 
 - 📫 How to reach me:
