@@ -37,7 +37,7 @@
     <div>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm </h2>
+            What Currently I'm </h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
             <li> 💬 Ask me about Linux <img align="center"
