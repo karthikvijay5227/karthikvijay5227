@@ -3,38 +3,28 @@
     <h1>Hello, I am Karthik Vijay</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/karthikkk.gif" width=90% alt="logo.gif"/>
-    <br/><br/>
+    <br/>
+    <br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
         I am a <b>Web developer</b> 🌐 from <b>Kerala, India</b> IN
     <div>
-        <!-- <a href="https://twitter.com/aromalhere" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
         <a href="https://www.linkedin.com/in/karthikvijay5227/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:kv52274@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <!-- <a href="https://medium.com/@aromalsanthosh" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
-        <!-- <a href="https://www.dribbble.com/aromalsanthosh"><img alt="Dribbble"
-                src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> -->
-        <!-- <a href="mailto:aromalsanthosh@protonmail.com" target="_blank"><img alt="Protonmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a> -->
         <a href="https://wa.me/918547257478/" target="_blank"><img alt="Whatsapp"
                 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://www.instagram.com/karthik82228/">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-        <!-- <a href="https://t.me/8547257478"><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br> -->
-        <!-- <a href="https://t.me/aromalhere"><img alt="Telegram"
-                src="https://komarev.com/ghpvc/?username=aromalasanthosh"></a><br>  -->
     </div>
     <div>
       <p align="center"><img src="https://komarev.com/ghpvc/?username=karthikvijay5227&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvijay5227" /> </p>
     </div>
 </div>
-
 <div>
-    <div>
+    <img align="right" alt="Coding" width="400" src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/Code.gif"/>&ensp; &ensp; &ensp;
+</div>
+<div>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What Currently I'm </h2>
@@ -52,19 +42,19 @@
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:kv52274@gmail.com" target="_blank">kv52274@gmail.com</a></li>
         </ul>
-    </div>
+ </div>
+ </br>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
                 width="45" /> Languages and Tools</h2>
 
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=github,git,linux,c,cpp,java,py,idea" />
    </br>
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,mongodb" />
    </br>
    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,androidstudio,flutter,vscode,eclipse,visualstudio"/>
-  </a>
-</br>
+</a>
 </br>
 
 <h2 align="left"> 💻 Coding Profiles:</h2>
@@ -80,7 +70,7 @@
 <div align="left">
         <h2><img width="45" height="45" align="center" src="https://giffiles.alphacoders.com/576/57604.gif" /> My Stats</h2>
  </div>
- <br />
+ <br/>
  <div>
      <p align="center">
           <img height="160" alt="Karthik's Github Stats"
