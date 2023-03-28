@@ -1,4 +1,4 @@
-<img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=10000px height=32px>
+<!-- <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=10000px height=32px> -->
 <div align="center">
     <h1>Hello, I am Karthik Vijay <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
