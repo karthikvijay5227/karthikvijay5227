@@ -87,11 +87,6 @@
     </div>
 </div>
 </br>
-<div>
-    <a href="#">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karthikvijay5227&bg_color=434445&color=44ff00&line=09fb66&point=fbff00&area=true&hide_border=true"/>
-    </a>
-</div>
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=10000px height=32px>
 
 
