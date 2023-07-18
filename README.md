@@ -87,6 +87,11 @@
     </div>
 </div>
 </br>
+<div>
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikvijay5227&theme=react-dark&area=true&hide_border=true"/>
+    </a>
+</div>
 <img src="https://github.com/karthikvijay5227/karthikvijay5227/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=10000px height=32px>
 
 
