@@ -30,9 +30,9 @@
             What Currently I'm </h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
-            <li> 💬 Ask me about Linux <img align="center"
+            <li> 💬 Ask me about Web, Linux <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
-                    width="16" />, Android <img align="center"
+                    width="16" /> and Android <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
                     width="16" /></li>
             <li> 🎓 I'm currently learning React Native <img align="center"
